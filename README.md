@@ -1,2 +1,2 @@
-# aula-pr-tica-de-github
+# aula-rapida-de-gh
 aula rápida de github para as codivas codivas.com.br
